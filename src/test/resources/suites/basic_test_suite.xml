@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="BaseTestSuite" verbose="1" parallel="tests" thread-count="1">
+    <test name="PositiveTest-CH">
+        <parameter name="user" value="standard_user"/>
+        <parameter name="password" value="secret_sauce"/>
+        <parameter name="userLocked" value="locked_out_user"/>
+        <parameter name="userNotRegistered" value="maria@gmail.com"/>
+        <parameter name="passwordNull" value="12345uj"/>
+        <parameter name="userProblem" value="problem_user"/>
+        <parameter name="userPerformance" value="performance_glitch_user"/>
+
+
+        
+        <classes>
+            <class name="org.automation.qa.tests.BasicTest" />
+        </classes>
+    </test>
+</suite>

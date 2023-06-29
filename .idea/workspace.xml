@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f62a93a8-9e57-4f82-80af-8514c7314821" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/automation/qa/messages/Messages.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/suites/basic_test_suite.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tests/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/automation/qa/tests/BasicTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2Qc8TkAW9dDXQNoH3SH7oVPo2vk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/karen.gaviria/Desktop/Intallation proyect/proyect/Test_Ejercicio/src/test/java&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/karen.gaviria/Desktop/Intallation proyect/proyect/Test_Ejercicio/src/test/java/org/automation/qa&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/karen.gaviria/Desktop/Intallation proyect/proyect/Test_Ejercicio/src/test/resources/suites/basic_test_suite.xml">
+    <configuration name="BasicTest.test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test_Ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.qa.tests.BasicTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest.test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test_Ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.qa.tests.BasicTest" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test_Ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.qa.tests.BasicTest" />
+      <option name="METHOD_NAME" value="test5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BasicTest.test6" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test_Ejercicio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.automation.qa.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.automation.qa.tests" />
+      <option name="MAIN_CLASS_NAME" value="org.automation.qa.tests.BasicTest" />
+      <option name="METHOD_NAME" value="test6" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/karen.gaviria/Desktop/Intallation proyect/proyect/Test_Ejercicio/src/test/resources/suites/basic_test_suite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Test_Ejercicio" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suites/basic_test_suite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.BasicTest.test4" />
+      <item itemvalue="TestNG.BasicTest.test5" />
+      <item itemvalue="TestNG.BasicTest.test6" />
+      <item itemvalue="TestNG.BasicTest.test2" />
+      <item itemvalue="TestNG.C:/Users/karen.gaviria/Desktop/Intallation proyect/proyect/Test_Ejercicio/src/test/resources/suites/basic_test_suite.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/karen.gaviria/Desktop/Intallation proyect/proyect/Test_Ejercicio/src/test/resources/suites/basic_test_suite.xml" />
+        <item itemvalue="TestNG.BasicTest.test6" />
+        <item itemvalue="TestNG.BasicTest.test5" />
+        <item itemvalue="TestNG.BasicTest.test4" />
+        <item itemvalue="TestNG.BasicTest.test2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f62a93a8-9e57-4f82-80af-8514c7314821" name="Changes" comment="" />
+      <created>1685641519256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685641519256</updated>
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1686256799739</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1686256799739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+</project>
